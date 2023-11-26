@@ -39,7 +39,7 @@ typing_extensions==4.7.1
 tzdata==2023.3
 urllib3>=1.21.1,<1.27
 virtualenv==20.24.4
-Werkzeug==2.3.4
+Werkzeug==2.2.3
 whitenoise==6.5.0
 yarl==1.8.2
 eureka==0.15
