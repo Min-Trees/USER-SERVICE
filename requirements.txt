@@ -13,7 +13,7 @@ colorama==0.4.6
 comtypes==1.1.11
 distlib==0.3.7
 dj-database-url==2.0.0
-Django==4.2.0
+Django==3.2.23
 django-cors-headers==4.2.0
 djangorestframework==3.14.0
 filelock==3.12.3
